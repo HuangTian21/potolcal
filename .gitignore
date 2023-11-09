@@ -1,0 +1,13 @@
+*.bin
+*.obj
+*.lst
+*.bak
+*.hex
+*.doc
+*.docx
+*.uvopt
+*.uvproj
+*.Administration
+
+
+

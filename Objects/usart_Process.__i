@@ -1,0 +1,1 @@
+"src\usart_Process.c" OPTIMIZE (8,SPEED) BROWSE INCDIR(.\src) DEBUG OBJECTEXTEND PRINT(.\Listings\usart_Process.lst) OBJECT(.\Objects\usart_Process.obj)

@@ -1,0 +1,3 @@
+---- Serial_Port_Device.Bus_Busy_LED_FLG Matches (2 in 1 files) ----
+usart_Process.c (src):		if (Serial_Port_Device.Bus_Busy_LED_FLG == 1)
+usart_Process.c (src):					Serial_Port_Device.Bus_Busy_LED_FLG = 0;

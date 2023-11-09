@@ -1,0 +1,9 @@
+".\Objects\delay.obj",
+".\Objects\GPIO.obj",
+".\Objects\eeprom.obj",
+".\Objects\main.obj",
+".\Objects\IO_CFG.obj",
+".\Objects\ISR.obj",
+".\Objects\usart_Process.obj" 
+TO ".\Objects\第三方协议面板填代码方式转换协议20210625" 
+PRINT(".\Listings\第三方协议面板填代码方式转换协议20210625.m51") RAMSIZE(256) 
